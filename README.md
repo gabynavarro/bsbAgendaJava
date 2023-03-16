@@ -22,7 +22,12 @@ Con esta mini agenda,podrás:
 ### Contribuciones
 
 Si deseas contribuir al proyecto, siéntete libre de hacer un fork y enviar tus cambios mediante un pull request. Todas las contribuciones son bienvenidas.
+### UML
+<img src="https://github.com/gabynavarro/bsbAgendaJava/blob/master/utils/uml.png"></img>
 ### Imagenes
-<img src="https://drive.google.com/file/d/16Ds4wv9hsrQ2BuwNKeHrTICVoJIqD31n/view?usp=share_link"></img>
+<img src="https://github.com/gabynavarro/bsbAgendaJava/blob/master/utils/img/menu.png"></img>
+<img src="https://github.com/gabynavarro/bsbAgendaJava/blob/master/utils/img/personas.png"></img>
+<img src="https://github.com/gabynavarro/bsbAgendaJava/blob/master/utils/img/compania.png"></img>
+<img src="https://github.com/gabynavarro/bsbAgendaJava/blob/master/utils/img/contactos.png"></img>
 
 
