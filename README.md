@@ -1,4 +1,3 @@
-Claro, aquí te presento una versión mejorada del texto para un README de GitHub:
 Mini Agenda
 
 Este proyecto es una mini agenda desarrollada para fines educativos y puede ser utilizada como ejemplo de trabajos.
