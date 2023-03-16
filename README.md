@@ -1,18 +1,25 @@
-## Getting Started
+Claro, aquí te presento una versión mejorada del texto para un README de GitHub:
+Mini Agenda
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este proyecto es una mini agenda desarrollada para fines educativos y puede ser utilizada como ejemplo de trabajos.
+Descripción
 
-## Folder Structure
+Esta mini agenda fue desarrollada para un trabajo presentado en la empresa Besysoft. Con ella, podrás:
 
-The workspace contains two folders by default, where:
+    Agregar personas.
+    Agregar empresas.
+    Relacionar personas con empresas.
+    Hacer búsquedas de personas por apellido.
+    Hacer búsquedas de personas por ciudades.
+    Hacer búsquedas de empresas por ciudades.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Las búsquedas se imprimen en formato de tabla para facilitar la visualización.
+Cómo utilizar
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Para utilizar la mini agenda, simplemente descarga el repositorio y ejecuta el archivo Main.java. A continuación, sigue las instrucciones que se te presentarán en la consola.
+Contribuciones
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Si deseas contribuir al proyecto, siéntete libre de hacer un fork y enviar tus cambios mediante un pull request. Todas las contribuciones son bienvenidas.
+Licencia
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Este proyecto está bajo la licencia MIT.
