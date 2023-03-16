@@ -1,0 +1,19 @@
+
+f
+java:S1192
+"IDefine a constant instead of duplicating this literal "CÃ³rdoba" 3 times.(ˆŠ×í8«–ÃÒî0
+o
+java:S1192	"MDefine a constant instead of duplicating this literal "Buenos Aires" 3 times.(ùáÑøÿÿÿÿ8¬–ÃÒî0
+7
+java:S1220""Move this file to a named package.8¬–ÃÒî0
+R
+java:S1854"5Remove this useless assignment to local variable "m".(¬Âµ8ÒòÃÒî0
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8¶ÈÃÒî0
+I
+java:S1481",Remove this unused "scanner" local variable.(ê—™ô8´–ÃÒî0
+C
+java:S1481"&Remove this unused "m" local variable.(¬Âµ8ÖòÃÒî0
+X	java:S125"<This block of commented-out lines of code should be removed.(¬äêú8·–ÃÒî0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÖòÃÒî0
